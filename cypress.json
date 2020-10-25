@@ -1,0 +1,6 @@
+{
+    "baseURL": "http://the-internet.herokuapp.com/iframe",
+    "pageLoadTimeout": 60000,
+    "chromeWebSecurity": false,
+    "waitForAnimations": true
+}

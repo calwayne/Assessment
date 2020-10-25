@@ -1,0 +1,38 @@
+{
+  "name": "assessment_task_2",
+  "version": "1.0.0",
+  "description": "Assessment Task no. 2.1 and 2.2",
+  "main": "Automation Part I: Browser Driven Functional Testing:  2.1.1 iFrame Editor, 2.1.2 Javascript Alerts, 2.1.3 Sortable tables; Automation Part II: REST API Automation Testing: 2.2.1 List Users, 2.2.2. Create 2.2.3 Update",
+  "scripts": {
+    "test": "npx cypress:run",
+    "iframeeditor": "cypress run -b chrome -s 'cypress/integration/Task2.1/iframeEditor-Method1.js'",
+    "editor": "cypress run -b chrome -s 'cypress/integration/Editor-Method2.js'",
+    "jsalert": "cypress run -b chrome -s 'cypress/integration/JavascriptAlert.js'",
+    "jsconfirm": "cypress run -b chrome -s 'cypress/integration/JavascriptConfirm.js'",
+    "jsprompt": "cypress run -b chrome -s 'cypress/integration/JavascriptPrompt.js'",
+    "sortabletables": "cypress run -b chrome -s 'cypress/integration/SortableTables.js'",
+    "xhr_req": "cypress run -b chrome -s 'cypress/integration/Task2.2/xhr_request.js'",
+    "xhr_route": "cypress run -b chrome -s 'cypress/integration/Task2.2/xhr_route.js'",
+    "xhr_update": "cypress run -b chrome -s 'cypress/integration/Task2.2/xhr_update.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calwayne/AdaptavistInteviewAssessment.git"
+  },
+  "keywords": [
+    "adaptavist"
+  ],
+  "author": "Wayne Yeow Way Ann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calwayne/AdaptavistInteviewAssessment/issues"
+  },
+  "homepage": "https://github.com/calwayne/AdaptavistInteviewAssessment#readme",
+  "devDependencies": {
+    "cypress": "^5.4.0",
+    "cypress-iframe": "^1.0.1"
+  },
+  "dependencies": {
+    "node": "^15.0.1"
+  }
+}
