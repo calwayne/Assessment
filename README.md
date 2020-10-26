@@ -2,6 +2,28 @@
 
 __Task 2__
 
+__2.1 Browser Driven Functional Testing__
+
+Write at least one scenario for each of the components listed below and create browser driven automated tests to test them.
+
+1. Editor - ​http://the-internet.herokuapp.com/iframe
+
+2. Alerts - ​http://the-internet.herokuapp.com/javascript_alerts
+
+3. Sortable Table - ​http://the-internet.herokuapp.com/tables
+      
+__2.2 REST API automation Testing__
+
+Create automated tests for the below endpoints from the site ​https://reqres.in/ 
+
+1. List Users
+
+2. Create 
+
+3. Update
+
+__#Solution implemented with CYPRESS AUTOMATION in javascripts:__
+
 #Pre-requistes: Install below dependencies than run by command "npx cypress run" inside the assessment folder after pull from github.
 
 npm install nodejs
@@ -42,25 +64,6 @@ __To verify my codings:__
 
 Type following commands in your terminal based on the questionsheet in PDF file:
 
-__2.1 Browser Driven Functional Testing__
-
-Write at least one scenario for each of the components listed below and create browser driven automated tests to test them.
-
-1. Editor - ​http://the-internet.herokuapp.com/iframe
-
-2. Alerts - ​http://the-internet.herokuapp.com/javascript_alerts
-
-3. Sortable Table - ​http://the-internet.herokuapp.com/tables
-      
-__2.2 REST API automation Testing__
-
-Create automated tests for the below endpoints from the site ​https://reqres.in/ 
-
-1. List Users
-
-2. Create 
-
-3. Update
 
 __CYPRESS COMMANDS__
 
