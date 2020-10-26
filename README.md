@@ -5,7 +5,9 @@ __Task 2__
 #Pre-requistes: Install below dependencies than run by command "npx cypress run" inside the assessment folder after pull from github.
 
 npm install nodejs
+
 npm install cypress --save-dev
+
 npx cypress run
 
 __Notes: Browser driven was set to chrome by default. Can be easily modified inside package.json file in this part:__
