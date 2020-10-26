@@ -1,6 +1,6 @@
 # Assessment
 
-__Task 2
+__Task 2__
 
 #Pre-requistes: Install below dependencies than run by command "npx cypress run" inside the assessment folder after pull from github.
 
@@ -40,7 +40,7 @@ __To verify my codings:__
 
 Type following commands in your terminal based on the questionsheet in PDF file:
 
-__2.1 Browser Driven Functional Testing
+__2.1 Browser Driven Functional Testing__
 
 Write at least one scenario for each of the components listed below and create browser driven automated tests to test them.__
 
