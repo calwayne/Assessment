@@ -44,7 +44,7 @@ Type following commands in your terminal based on the questionsheet in PDF file:
 
 __2.1 Browser Driven Functional Testing__
 
-Write at least one scenario for each of the components listed below and create browser driven automated tests to test them.__
+Write at least one scenario for each of the components listed below and create browser driven automated tests to test them.
 
 1. Editor - ​http://the-internet.herokuapp.com/iframe
 
