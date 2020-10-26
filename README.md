@@ -10,7 +10,7 @@ npm install cypress --save-dev
 
 npx cypress run
 
-__Notes: Browser driven was set to chrome by default. Can be easily modified inside package.json file in this part:__
+__*Notes__: Browser driven was set to chrome by default. Can be easily modified inside package.json file in this part:
 
   "scripts": {
   
@@ -36,7 +36,7 @@ __Notes: Browser driven was set to chrome by default. Can be easily modified ins
     
   },
 
-*Notes: You may run the test locally according to test scenario upon installed dependecies mentioned earlier.
+__*Notes__: You may run the test locally according to test scenario upon installed dependecies mentioned earlier.
 
 __To verify my codings:__
 
