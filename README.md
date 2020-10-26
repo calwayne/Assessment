@@ -34,11 +34,11 @@ __Notes: Browser driven was set to chrome by default. Can be easily modified ins
     
   },
 
-You may run the test locally according to test scenario upon installed dependecies mentioned earlier.
+*Notes: You may run the test locally according to test scenario upon installed dependecies mentioned earlier.
 
-__To verify my codings:
+__To verify my codings:__
 
-Type following commands in your terminal based on the questionsheet in PDF file:__
+Type following commands in your terminal based on the questionsheet in PDF file:
 
 __2.1 Browser Driven Functional Testing
 
